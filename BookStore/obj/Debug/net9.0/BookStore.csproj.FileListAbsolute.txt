@@ -1,0 +1,14 @@
+F:\c#\BookStore\BookStore\bin\Debug\net9.0\BookStore.exe
+F:\c#\BookStore\BookStore\bin\Debug\net9.0\BookStore.deps.json
+F:\c#\BookStore\BookStore\bin\Debug\net9.0\BookStore.runtimeconfig.json
+F:\c#\BookStore\BookStore\bin\Debug\net9.0\BookStore.dll
+F:\c#\BookStore\BookStore\bin\Debug\net9.0\BookStore.pdb
+F:\c#\BookStore\BookStore\obj\Debug\net9.0\BookStore.GeneratedMSBuildEditorConfig.editorconfig
+F:\c#\BookStore\BookStore\obj\Debug\net9.0\BookStore.AssemblyInfoInputs.cache
+F:\c#\BookStore\BookStore\obj\Debug\net9.0\BookStore.AssemblyInfo.cs
+F:\c#\BookStore\BookStore\obj\Debug\net9.0\BookStore.csproj.CoreCompileInputs.cache
+F:\c#\BookStore\BookStore\obj\Debug\net9.0\BookStore.dll
+F:\c#\BookStore\BookStore\obj\Debug\net9.0\refint\BookStore.dll
+F:\c#\BookStore\BookStore\obj\Debug\net9.0\BookStore.pdb
+F:\c#\BookStore\BookStore\obj\Debug\net9.0\BookStore.genruntimeconfig.cache
+F:\c#\BookStore\BookStore\obj\Debug\net9.0\ref\BookStore.dll
